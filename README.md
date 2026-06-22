@@ -415,8 +415,7 @@ Longitude
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
-cd traffic-violations-project
+git clone https://github.com/srinivasmba03/Traffic-_Violations_Insight-_System
 ```
 
 ---
